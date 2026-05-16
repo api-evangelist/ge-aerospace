@@ -8,11 +8,42 @@ tags:
   - Defense
   - Aviation
   - Manufacturing
-description: 'A leading manufacturer of jet engines and aviation systems for commercial and military aircraft. Spun off from General Electric to focus exclusively on aerospace propulsion and services.'
+  - Engines
+  - MRO
+description: 'A leading manufacturer of jet engines and aviation systems for commercial and military aircraft. Spun off from General Electric to focus exclusively on aerospace propulsion and services, GE Aerospace also offers software-as-a-service tooling, engine health monitoring (Collaborative Insight), TRUEngine certification, and OnPoint maintenance and support services.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
+x-no-public-api: true
+x-no-public-api-reason: >-
+  GE Aerospace does not publish a public developer portal, OpenAPI specs, or
+  general-access partner API documentation. The company offers SaaS, engine
+  health monitoring (Collaborative Insight), and OnPoint regional/business
+  services to airline and operator customers, but these are delivered through
+  customer agreements rather than a self-service API program. The legacy GE
+  Predix industrial IoT platform was divested and is not part of the GE
+  Aerospace developer surface.
 common:
   - type: Website
     url: https://www.geaerospace.com/
+  - type: AboutUs
+    url: https://www.geaerospace.com/company
+  - type: News
+    url: https://www.geaerospace.com/news
+  - type: InvestorRelations
+    url: https://www.geaerospace.com/investor-relations
+  - type: Careers
+    url: https://jobs.gecareers.com/aerospace/global/en
+  - type: ContactUs
+    url: https://www.geaerospace.com/contact-us
+  - type: PrivacyPolicy
+    url: https://www.geaerospace.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.geaerospace.com/terms-and-conditions
+  - type: ProductsCommercialEngines
+    url: https://www.geaerospace.com/propulsion/commercial
+  - type: ProductsMilitary
+    url: https://www.geaerospace.com/propulsion/military
+  - type: ServicesOnPoint
+    url: https://www.geaerospace.com/services
