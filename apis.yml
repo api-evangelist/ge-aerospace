@@ -25,6 +25,10 @@ x-no-public-api-reason: >-
   Predix industrial IoT platform was divested and is not part of the GE
   Aerospace developer surface.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/GEAerospace
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/geaerospace
   - type: Website
     url: https://www.geaerospace.com/
   - type: AboutUs
