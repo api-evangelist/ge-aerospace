@@ -24,7 +24,7 @@ tags:
 description: 'A leading manufacturer of jet engines and aviation systems for commercial and military aircraft. Spun off from General Electric to focus exclusively on aerospace propulsion and services, GE Aerospace also offers software-as-a-service tooling, engine health monitoring (Collaborative Insight), TRUEngine certification, and OnPoint maintenance and support services.'
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 x-no-public-api: true
 x-no-public-api-reason: >-
